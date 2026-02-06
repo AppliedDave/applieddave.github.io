@@ -99,64 +99,64 @@ Datadog, Jira (Advanced), Perforce, Linux environments, AI-assisted automation
 Applied Game Designs  
 Creative Director  
 Jan '25 - Present  
-● End-to-end product vision and roadmap for live, configurable content and progression systems.  
-● Act as Agile and production lead across multiple Unity-based live service mobile titles.  
-● Own Feature and Lean Development planning, backlog prioritization, and release coordination for ongoing content delivery.  
-● Partner across the company to translate roadmaps into executable release plans and milestones.  
-● Led cross-functional teams across Design, Engineering, and QA to ensure predictable execution.  
-● Drive triage, regression prioritization, and release readiness in partnership with QA.  
+- End-to-end product vision and roadmap for live, configurable content and progression systems.  
+- Act as Agile and production lead across multiple Unity-based live service mobile titles.  
+- Own Feature and Lean Development planning, backlog prioritization, and release coordination for ongoing content delivery.  
+- Partner across the company to translate roadmaps into executable release plans and milestones.  
+- Led cross-functional teams across Design, Engineering, and QA to ensure predictable execution.  
+- Drive triage, regression prioritization, and release readiness in partnership with QA.  
 
 Marauder Tech  
 Lead Producer  
 Mar '24 - Jan '25  
-● Managed and mentored producers, driving consistent execution across cross-functional teams.  
-● Owned agile planning, ceremonies, and delivery cadence to improve predictability.  
-● Maintained workflows, ensuring clear priorities, scope readiness, and team visibility.  
-● Identified and removed blockers, risks, and dependencies to keep teams delivering on schedule.  
-● Improved production communication and reporting to reduce rework and execution drift.  
+- Managed and mentored producers, driving consistent execution across cross-functional teams.  
+- Owned agile planning, ceremonies, and delivery cadence to improve predictability.  
+- Maintained workflows, ensuring clear priorities, scope readiness, and team visibility.  
+- Identified and removed blockers, risks, and dependencies to keep teams delivering on schedule.  
+- Improved production communication and reporting to reduce rework and execution drift.  
 
 Intrepid Studios  
 QA Manager  
 Oct '23 - Mar '24  
-● Drove product quality strategy for a large-scale, real-time, collaborative MMO environment.  
-● Led triage, release readiness, and QA execution for a large-scale live service MMO.  
-● Partnered with producers and engineering to surface, prioritize, and resolve risks early.  
-● Integrated QA workflows into agile production cycles to support predictable releases.  
-● Engaged in engineering to improve observability and issue detection in live environments.  
-● Supported large-scale testing scenarios simulating real-world player load and failure modes.  
+- Drove product quality strategy for a large-scale, real-time, collaborative MMO environment.  
+- Led triage, release readiness, and QA execution for a large-scale live service MMO.  
+- Partnered with producers and engineering to surface, prioritize, and resolve risks early.  
+- Integrated QA workflows into agile production cycles to support predictable releases.  
+- Engaged in engineering to improve observability and issue detection in live environments.  
+- Supported large-scale testing scenarios simulating real-world player load and failure modes.  
 
 Two Dots (Take-Two Interactive)  
 Senior Technical Producer  
 Nov '21 - May '23  
-● Used analytics and observability data to guide product and operational decisions.  
-● Senior Producer for casual mobile titles with live service delivery and ongoing content updates.  
-● Owned production execution and live ops delivery for multiple mobile game launches.  
-● Led sprint planning, release coordination, and post-launch stability efforts.  
-● Managed build submissions and collaborated with QA to ensure quality and compliance.  
-● Introduced capacity planning and forecasting to align infrastructure needs with player demand.  
-● Led observability migration (New Relic → Datadog) to improve reliability and cost visibility.  
-● Supported products through acquisition-driven organizational change while maintaining uptime.  
+- Used analytics and observability data to guide product and operational decisions.  
+- Senior Producer for casual mobile titles with live service delivery and ongoing content updates.  
+- Owned production execution and live ops delivery for multiple mobile game launches.  
+- Led sprint planning, release coordination, and post-launch stability efforts.  
+- Managed build submissions and collaborated with QA to ensure quality and compliance.  
+- Introduced capacity planning and forecasting to align infrastructure needs with player demand.  
+- Led observability migration (New Relic → Datadog) to improve reliability and cost visibility.  
+- Supported products through acquisition-driven organizational change while maintaining uptime.  
 
 Spirion (Contract)  
 Senior Technical Project Manager  
 Apr '20 - Oct '21  
-● Owned product strategy for client-facing platforms and internal tooling.  
-● Worked closely with engineers on API-driven architectures.  
-● Translated complex technical systems into intuitive user experiences.  
-● Balanced enterprise client needs with long-term platform scalability.  
-● Delivery of mission-critical SaaS systems with strict uptime and compliance requirements.  
-● Balanced feature delivery with operational risk, cost controls, and regulatory constraints.  
-● Led cross-functional teams through the full lifecycle from conception to customer delivery.  
+- Owned product strategy for client-facing platforms and internal tooling.  
+- Worked closely with engineers on API-driven architectures.  
+- Translated complex technical systems into intuitive user experiences.  
+- Balanced enterprise client needs with long-term platform scalability.  
+- Delivery of mission-critical SaaS systems with strict uptime and compliance requirements.  
+- Balanced feature delivery with operational risk, cost controls, and regulatory constraints.  
+- Led cross-functional teams through the full lifecycle from conception to customer delivery.  
 
 Wizards of the Coast (Contract)  
 Head of QA  
 Oct '19 - Mar '20  
-● Quality strategy and operational readiness for a large-scale, live, cross-platform content.  
-● Led platform certification and backend integration for Epic Games Store and mobile.  
-● Simplified complex release and validation workflows, eliminating $1.8M in inefficiencies.  
-● Overall improvement in delivery predictability.  
-● Partnered with design and engineering to improve stability, live reliability, and trust.  
-● Improved the live service stability for one of the world’s largest digital card games.  
+- Quality strategy and operational readiness for a large-scale, live, cross-platform content.  
+- Led platform certification and backend integration for Epic Games Store and mobile.  
+- Simplified complex release and validation workflows, eliminating $1.8M in inefficiencies.  
+- Overall improvement in delivery predictability.  
+- Partnered with design and engineering to improve stability, live reliability, and trust.  
+- Improved the live service stability for one of the world’s largest digital card games.  
 
 ### Career Highlights  
 Live ops and backend experience across Magic: The Gathering Arena, EVE Online, Two Dots, and
