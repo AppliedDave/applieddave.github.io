@@ -74,14 +74,14 @@ Thanks for visiting my profile 🙌
 Dave Collins  
 Senior PMO and Quality Assurance | 727-304-4353 | dave@davecollins.me | linkedin.com/in/collinsdavew
 
-Introduction  
+### Introduction  
 Senior Producer with 15+ years of experience delivering mobile and live service games through
 cross-functional teams. Proven Agile and Lean guidance known for driving clarity, accountability, and
 predictable execution across Product, Design, Engineering, and QA. Experienced mentoring producers,
 engineers, and Quality Assurance, owning Jira-driven workflows, and leading build, release, and triage
 processes to consistently ship high-quality games on time.
 
-Core Product Skills  
+### Core Product Skills  
 • Agile & Lean Leadership  
 • Cross-Functional Team Execution (Design, Engineering, QA, Product)  
 • Mentorship & Team Development  
@@ -91,11 +91,11 @@ Core Product Skills
 • Live Ops & Ongoing Content Delivery  
 • Triage Leadership & QA Partnership  
 
-Technical Skills  
+### Technical Skills  
 C++, C#, JavaScript, Python, Unity, Unreal, Confluence (Advanced), Git, GitHub, GitLab, Jenkins, New Relic, AWS,
 Datadog, Jira (Advanced), Perforce, Linux environments, AI-assisted automation  
 
-Work Experience  
+### Work Experience  
 Applied Game Designs  
 Creative Director  
 Jan '25 - Present  
@@ -158,7 +158,7 @@ Oct '19 - Mar '20
 ● Partnered with design and engineering to improve stability, live reliability, and trust.  
 ● Improved the live service stability for one of the world’s largest digital card games.  
 
-Career Highlights  
+### Career Highlights  
 Live ops and backend experience across Magic: The Gathering Arena, EVE Online, Two Dots, and
 multiple PC and mobile titles. Supported products with millions of players, high concurrency, and strict
 uptime expectations. Extensive experience partnering with engineering on scalability, latency, and cost
