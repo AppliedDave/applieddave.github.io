@@ -11,7 +11,7 @@ I'm a senior **product leader & producer** with deep experience launching, scali
 - 🤝 Skilled communicator and team builder
 - 🕹 Passionate about games, player experience, and sustainable growth
 
-I’ve worked across mobile, desktop, and web platforms — leading teams through design, development, QA, release, and live service operations.
+I’ve worked across mobile, desktop, and web platforms, leading teams through design, development, QA, release, and live service operations.
 
 ---
 
@@ -20,7 +20,7 @@ I’ve worked across mobile, desktop, and web platforms — leading teams throug
 ### 🎮 Product & Project Leadership
 I bring **10+ years** of experience leading product development and production workflows in fast-paced environments, with a focus on:
 
-- Agile / Scrum team management
+- Agile / Lean team management
 - Cross-discipline planning and delivery
 - Process design, improvement & scaling
 - Risk management and mitigation
