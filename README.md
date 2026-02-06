@@ -63,8 +63,8 @@ I regularly explore frameworks and practices to improve team performance, produc
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/[your-profile]
-- 📧 Email: [your.email@example.com]
-- 🌐 Portfolio/Website: https://[your-portfolio].com
+- 💼 LinkedIn: https://www.linkedin.com/in/collinsdavew
+- 📧 Email: dave@davecollins.me
+- 🌐 Portfolio/Website: https://applieddave.github.io
 
 Thanks for visiting my profile 🙌
