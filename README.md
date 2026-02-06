@@ -18,7 +18,7 @@ I’ve worked across mobile, desktop, and web platforms, leading teams through d
 ## 💼 Professional Experience
 
 ### 🎮 Product & Project Leadership
-I bring **10+ years** of experience leading product development and production workflows in fast-paced environments, with a focus on:
+I bring **25+ years** of experience leading product development and production workflows in fast-paced environments, with a focus on:
 
 - Agile / Lean team management
 - Cross-discipline planning and delivery
