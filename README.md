@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Dave Collins 👋
 
 I'm a senior **product leader & producer** with deep experience launching, scaling, and operating digital products and games. I thrive at the intersection of strategy, execution, and cross-functional collaboration — turning complex ideas into delightful experiences.
 
