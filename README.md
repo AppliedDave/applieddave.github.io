@@ -81,9 +81,9 @@ If you need someone to **own delivery**, reduce risk, and help teams move faster
 
 ## 📬 Contact
 
-- **[LinkedIn](https://www.linkedin.com/in/collinsdavew):**  
+- **[LinkedIn](https://www.linkedin.com/in/collinsdavew)**  
 - **[GitHub](https://github.com/AppliedDave/)**  
-- **Email:** [your-email-here]
+- **Email:** dave@davecollins.me  
 
 No pitch decks. No fluff.  
 Just context, evidence, and whether the boxes actually line up.
