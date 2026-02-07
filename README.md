@@ -27,7 +27,7 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ## 🏗 Professional Experience
 
-### Creative Director — Applied Game Designs  
+### Creative Director — Applied Game Designs: Paragon of Blightborn, Magician's Bottles, Rife and Ruin, Symboite Sovereign  
 #### PC, Mobile  
 - Oversaw end-to-end production across multiple game initiatives
 - Defined delivery strategy, milestones, and risk management
@@ -36,7 +36,7 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ---  
 
-### Lead Producer — Marauder Tech
+### Lead Producer — Marauder Tech: Price of Glory  
 #### Mobile  
 - Owned delivery for multiple software and game-adjacent initiatives
 - Implemented Agile workflows tailored to team reality (not dogma)
@@ -45,7 +45,7 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ---
 
-### QA Manager — Intrepid Studios  
+### QA Manager — Intrepid Studios: Ashes of Creation  
 #### PC  
 - Established QA foundations for a large-scale MMO
 - Designed test strategies for complex, interconnected systems
@@ -54,7 +54,7 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ---
 
-### Senior Technical Producer — Two Dots (Take-Two Interactive)
+### Senior Technical Producer — Two Dots (Take-Two Interactive): Two Dots, Fashion and Fame, DevOps, LiveOps  
 #### Mobile    
 - Owned cross-functional delivery for live features and technical initiatives
 - Partnered closely with engineering to unblock dependencies and manage scope
@@ -63,7 +63,8 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ---
 
-### Head of Quality Assurance — Magic: The Gathering: Arena
+### Head of Quality Assurance — Wizards of the Coast: Magic: The Gathering: Arena
+#### PC, Mobile, Console  
 - Led QA for a global, live-service F2P game with frequent releases
 - Built scalable QA processes across platforms and content pipelines
 - Increased release confidence while supporting faster iteration
