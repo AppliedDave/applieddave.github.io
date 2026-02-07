@@ -27,7 +27,8 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ## 🏗 Professional Experience
 
-### Creative Director — Applied Game Designs
+### Creative Director — Applied Game Designs  
+#### PC, Mobile  
 - Oversaw end-to-end production across multiple game initiatives
 - Defined delivery strategy, milestones, and risk management
 - Acted as the connective tissue between creative vision and execution
@@ -36,6 +37,7 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 ---  
 
 ### Lead Producer — Marauder Tech
+#### Mobile  
 - Owned delivery for multiple software and game-adjacent initiatives
 - Implemented Agile workflows tailored to team reality (not dogma)
 - Improved communication across remote and hybrid teams
@@ -43,7 +45,8 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ---
 
-### QA Manager — Ashes of Creation (Intrepid Studios)
+### QA Manager — Intrepid Studios  
+#### PC  
 - Established QA foundations for a large-scale MMO
 - Designed test strategies for complex, interconnected systems
 - Partnered with engineering to improve testability and stability
@@ -52,6 +55,7 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 ---
 
 ### Senior Technical Producer — Two Dots (Take-Two Interactive)
+#### Mobile    
 - Owned cross-functional delivery for live features and technical initiatives
 - Partnered closely with engineering to unblock dependencies and manage scope
 - Improved predictability across releases in a live, high-visibility product
@@ -67,8 +71,8 @@ If a project is behind, unclear, or on fire, I’m usually brought in to stabili
 
 ---
 
-### QA Manager / Senior QA Roles — Multiple Studios
-- Managed QA teams across PC, console, and live-service products
+### Senior Roles — Multiple Studios
+- Managed Development teams across PC, console, and live-service products
 - Built test plans, automation strategies, and release gates
 - Acted as an early warning system for production and leadership
 - Advocated for quality as a delivery multiplier, not a blocker
